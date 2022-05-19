@@ -26,6 +26,8 @@ def artwork():
     ░ ░   ░ ░      ░     ░   ▒    ▒ ░  ░ ░    ░  ░░ ░  ░   ▒   ░        ░ ░░ ░
           ░        ░         ░  ░ ░      ░  ░ ░  ░  ░      ░  ░░ ░      ░  ░
                                                                ░''')
+    YOUTUBE : MAZEEN CREATION
+
 artwork()
 smtp = smtplib.SMTP("smtp.gmail.com", GMAIL_PORT)
 
